@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab1HelloAndroid</string>
+    <string name="button_label">Click Me!</string>
+    <string name ="init_value">Hello COMP3074</string>
+    <string name="click_value">It is Alive!</string>
+    <array name="values">
+        <item>Hello COMP3074</item>
+        <item>It is Alive!</item>
+        <item>Message 01 </item>
+        <item>Message 02 </item>
+        <item>Message 03</item>
+    </array>
+</resources>
