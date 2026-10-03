@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="User_name">
+        <item>Joe</item>
+        <item>Jim</item>
+        <item>Joe</item>
+        <item>Joe</item>
+        <item>Joe</item>
+        <item>Jim</item>
+        <item>Joe</item>
+        <item>Joe</item>
+        <item>Joe</item>
+        <item>Jim</item>
+    </string-array>
+
+    <string-array name="user_message">
+        <item>Hi!</item>
+        <item>How are you?</item>
+        <item>Test..1..2...3</item>
+        <item>I hate coding!!!</item>
+        <item>Hi!</item>
+        <item>How are you?</item>
+        <item>Test..1..2...3</item>
+        <item>I hate coding!!!</item>
+        <item>Hi!</item>
+        <item>How are you?</item>
+    </string-array>
+
+</resources>

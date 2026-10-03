@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="course_codes">
+        <item>COMP3074</item>
+        <item>COMP3095</item>
+        <item>COMP3123</item>
+        <item>COMP3133</item>
+        <item>COMP2156</item>
+        <item>COMP1230</item>
+        <item>COMP2130</item>
+        <item>COMP2140</item>
+        <item>COMP2160</item>
+        <item>COMP2170</item>
+    </string-array>
+
+    <string-array name="course_names">
+        <item>Mobile Application Development</item>
+        <item>Web Application Development</item>
+        <item>Full Stack Development</item>
+        <item>Full Stack Development II</item>
+        <item>DevOps</item>
+        <item>Advanced Web Programming</item>
+        <item>Application Development</item>
+        <item>Database Development</item>
+        <item>Mobile Technologies</item>
+        <item>Software Testing</item>
+    </string-array>
+
+</resources>

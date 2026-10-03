@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81a5d960-8084-48cb-8694-04eeb64ce5f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Lab03/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab03/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab03/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab03/settings.gradle.kts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab02/app/src/main/java/ca/gbc/comp3074/jean_oneal/lab02/ui/theme/Color.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab02/app/src/main/java/ca/gbc/comp3074/jean_oneal/lab02/ui/theme/Color.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab02/app/src/main/java/ca/gbc/comp3074/jean_oneal/lab02/ui/theme/Theme.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab02/app/src/main/java/ca/gbc/comp3074/jean_oneal/lab02/ui/theme/Theme.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab02/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab02/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,28 +29,31 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3JdgGKbPd2s2t7mGZ5Ddt625nfU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hailr/AndroidStudioProjects/COMP3074",
-    "settings.editor.selected.configurable": "settings.sync",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hailr/AndroidStudioProjects/COMP3074&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="COMP3074" />
